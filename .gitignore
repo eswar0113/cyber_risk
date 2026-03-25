@@ -1,0 +1,22 @@
+# Environment Variables
+.env
+*.env
+
+# SQLite Database
+db/*.sqlite
+db/*.db
+
+# Nmap outputs
+scans/*.xml
+
+# Python 
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
